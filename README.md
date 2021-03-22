@@ -30,11 +30,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 Add a screenshot of mobile solution. 
 
-![](./screenshot-mobile.jpg)
+![](./screenshot-mobile.png)
 
 Add a screenshot of mobile solution. 
 
